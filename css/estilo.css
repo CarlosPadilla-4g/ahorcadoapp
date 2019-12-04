@@ -42,6 +42,8 @@ to {top:200px;}
 	background-image: url(../images/images.jpeg);
 	display: block;
 	color: #FFF;
+	background-size: cover;
+	height: 100vh;
 }
 
 #logo img {
@@ -94,6 +96,8 @@ body {
 												  
 #opciones {
 	background-image:url(../images/ame.jpeg);
+	background-size: cover;
+	height: 100vh;
 }
 
 input[type="text"] {
@@ -177,6 +181,8 @@ input[type="submit"]:hover {
 #jugar {
 	background-image:url(../images/ame2.jpeg);
 	color: #FFF;
+	background-size: cover;
+	height: 100vh;
 }
 
 #contenedor-juego {
