@@ -164,12 +164,12 @@ input[type="submit"]:hover {
 
 #contenedor_imagen{
     width: 100px;
-    height: 160px;
+    height: 180px;
     margin-left: 40%;	
 }                                                 
 
 #contenedor_imagen img {
-	width: 130%;
+	width: 140%;
 	height: auto;
 }
 
@@ -202,7 +202,6 @@ input[type="submit"]:hover {
 }
 
 #contenedor_interfaz div{
-	color: blue;
 	display: inline-block;
 	margin-right: 50px;
 	margin-left: 50px;
@@ -211,11 +210,18 @@ input[type="submit"]:hover {
 	display:block;
 }
 #siguiente {
+	color: blue;
 	font-size: 30px;
 }
 #actual {
 	font-size: 30px;
+	color: #fff;
 }
 #anterior {
+	color: blue;
 	font-size: 30px;
+}
+#pie {
+    background-color: blue;
+    color: #fff;
 }
